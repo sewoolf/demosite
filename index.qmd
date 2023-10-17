@@ -1,5 +1,5 @@
 ---
-title: "J.T. Smith"
+title: "Sarah Woolf"
 image: mypic.png
 resources: resume.pdf
 about:
